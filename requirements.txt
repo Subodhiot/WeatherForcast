@@ -6,3 +6,4 @@ seaborn
 statsmodels
 prophet
 scikit-learn
+tensorflow
